@@ -5,7 +5,6 @@ import csharp from "../../assets/logos/csharp.png"
 import ruby from "../../assets/logos/ruby.png"
 import php from "../../assets/logos/php.png"
 import scala from "../../assets/logos/scala.png"
-import clojure from "../../assets/logos/clojure.png"
 import styles from "../styles.module.css"
 
 const Lenguages = () => {
