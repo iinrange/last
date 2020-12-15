@@ -10,19 +10,19 @@ const Docs = () => {
                         <h3 className={styles.my2}>Essentials</h3>
                         <nav>
                             <ul>
-                                <li><a className={styles.textPrimary} href="#">Introduction</a></li>
-                                <li><a href="#">About Loruki</a></li>
-                                <li><a href="#">Installation</a></li>
+                                <li><a className={styles.textPrimary} href="/">Introduction</a></li>
+                                <li><a href="/">About Loruki</a></li>
+                                <li><a href="/">Installation</a></li>
                             </ul>
                         </nav>
 
                         <h3 className={styles.my2}>Deployment</h3>
                         <nav>
                             <ul>
-                                <li><a href="#">Setting up a container</a></li>
-                                    <li><a href="#">Using the CLI</a></li>
-                                    <li><a href="#">Managing resources</a></li>
-                                    <li><a href="#">Upgrade & downgrade</a></li>
+                                <li><a href="/">Setting up a container</a></li>
+                                    <li><a href="/">Using the CLI</a></li>
+                                    <li><a href="/">Managing resources</a></li>
+                                    <li><a href="/">Upgrade & downgrade</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -36,7 +36,7 @@ const Docs = () => {
 
                         <h3>Lorem, ipsum dolor.</h3>
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima totam magni eius vitae velit id, atque veritatis! At, vero porro.</p>
-                        <a href="#"  className={`${styles.btn} ${styles.btnPrimary}`}>Install CLI</a>
+                        <a href="/"  className={`${styles.btn} ${styles.btnPrimary}`}>Install CLI</a>
 
                         <h3>Requirements</h3>
                         <ul>
